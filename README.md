@@ -1,9 +1,9 @@
 # CodTech-Internship
 CodTech Task 2
 Data Analyst Internship Task 2 (PREDICTIVE MODELING WITH LINEAR REGRESSION)
-Name:ARZOO GUPTA 
+Name:RISHI SALUJA
 Company:CODTECH IT SOLUTIONS 
-ID:CT6WDS413 
+ID:CT6WDS417
 Domain: Data Analytics 
 Mentor: Neela Santosh Kumar
 
